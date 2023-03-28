@@ -27,7 +27,8 @@ https://user-images.githubusercontent.com/88943189/228359584-2191d9db-c414-4b4a-
 
 ### Note
 - Biggest challenge was that I was very ill during the development, and I could complete it eventually with less focus capability.
-
+- During the development I learnt about Redux, React Query, Axios, little Next.js also.
+- Wrote 43 pages in Word about React in Word. So now I have one about React and one about Angular
 
 ### Sapling of the Project structure
 
